@@ -11,3 +11,9 @@ This repository contains the source code and supporting files for the project.
 - Organized project structure
 - Source code implementation
 - Documentation for the project
+
+## Future Improvements
+
+- Add additional functionality
+- Improve testing
+- Extend project documentation
