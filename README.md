@@ -5,3 +5,9 @@ This repository contains my project work and implementation developed as part of
 ## Project Structure
 
 This repository contains the source code and supporting files for the project.
+
+## Features
+
+- Organized project structure
+- Source code implementation
+- Documentation for the project
